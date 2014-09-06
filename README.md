@@ -1,0 +1,2 @@
+# wechat
+### a Sails application
